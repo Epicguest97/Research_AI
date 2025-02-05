@@ -1,0 +1,4 @@
+CNN/data/*
+CNN/anaconda_projects/*
+CNN/__pycache__/*
+CNN/.ipynb_checkpoints/*
